@@ -171,5 +171,6 @@ public class LinkedListExcercise {
     // Keep two pointer and move one to double of first one each time. 
     public ListNode findMiddleOfList(ListNode head) {
 
+        return null;
     }
 }
